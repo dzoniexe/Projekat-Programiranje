@@ -1,0 +1,6 @@
+#ifndef KORISNIK_HPP_INCLUDED
+#define KORISNIK_HPP_INCLUDED
+
+class Korisnik
+
+#endif // KORISNIK_HPP_INCLUDED
